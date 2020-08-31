@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: Simple Quest XP
+## Author: |cffbbbbbbMille|cff990000XIV|r
+## Version: 1.0.0
+## Notes: Simply adds quest XP to the selected quest
+## X-Issues: https://github.com/MilleXIV/XIV_Databar/issues
+
+libs\LibQuestXP\LibQuestXP.xml
+SimpleQuestXP.lua
